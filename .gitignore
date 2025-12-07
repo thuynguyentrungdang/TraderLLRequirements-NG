@@ -1,0 +1,19 @@
+﻿/TraderLLRequirements-NG/Properties/launchSettings.json
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.TraderLLRequirement-NG.iml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/TraderLLRequirements-NG/bin/
+/TraderLLRequirements-NG/obj/
+.idea/

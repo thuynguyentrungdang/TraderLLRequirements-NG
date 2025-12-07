@@ -1,0 +1,161 @@
+{
+    "modEnabled": true,
+    "modDebug": false,
+    
+    "traders": {
+        "54cb50c76803fa8b248b4571": [ 
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 2200000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 4500000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 6900000,
+                "minStanding": -1
+            }
+        ],
+        "54cb57776803fa99248b456e": [
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            },
+            {
+                "minLevel": 14,
+                "minSalesSum": 1200000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 2100000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 3300000,
+                "minStanding": -1
+            }
+        ],
+        "58330581ace78e27b8b10cee": [
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 1600000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 3800000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 7800000,
+                "minStanding": -1
+            }
+        ],
+        "5935c25fb3acc3127c3d8cd9": [
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 33000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 75000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 110000,
+                "minStanding": -1
+            }
+        ],
+        "5a7c2eca46aef81a7ca2145d": [
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 2200000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 4800000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 7500000,
+                "minStanding": -1
+            }
+        ],
+        "5ac3b934156ae10c4430e83c": [
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 2200000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            }
+        ],
+        "5c0647fdd443bc2504c2d371": [
+            {
+                "minLevel": -1,
+                "minSalesSum": -1,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 1600000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 3300000,
+                "minStanding": -1
+            },
+            {
+                "minLevel": -1,
+                "minSalesSum": 5100000,
+                "minStanding": -1
+            }
+        ]
+    }
+}
